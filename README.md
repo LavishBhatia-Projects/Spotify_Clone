@@ -27,4 +27,4 @@
  ## MusicPlayer Page:
  ![alt text](image-6.png)
 
-### This is a responsive Page
+# This Application is Fully Responsive
