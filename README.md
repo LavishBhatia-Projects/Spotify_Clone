@@ -1,16 +1,27 @@
 # finalspotify_clone
+ A spotify Clone made by lavish Bhatia
 
-A new Flutter project.
+ ## User Interface Looks like this: 
 
-## Getting Started
+ ### Get Started Page:
+ ![alt text](image.png)
+ 
+ ## Choose Mode Page:
+ ![alt text](image-1.png)
 
-This project is a starting point for a Flutter application.
+ ## SignIn or Register:
+ ![alt text](image-2.png)
+ 
+ ## RegisterPage:
+ ![alt text](image-3.png)
 
-A few resources to get you started if this is your first Flutter project:
+ ## Login Page:
+ ![alt text](image-4.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ ## Home Page:
+ ![alt text](image-5.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## MusicPlayer Page:
+ ![alt text](image-6.png)
+
+### This is a responsive Page
