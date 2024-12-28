@@ -4,7 +4,7 @@
  ## User Interface Looks like this: 
 
  ### Get Started Page:
- ![alt text](UI-images\image-1.png)
+ ![alt text](UI-images\image.png)
  
  ## Choose Mode Page:
  ![alt text](UI-images\image-1.png)
